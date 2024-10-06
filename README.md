@@ -28,3 +28,6 @@ Para executar o sistema, utilize o comando:
 
 ```bash
 python banco.py
+```
+
+#### Em colaboração com [DIO ME](https://www.dio.me/bootcamp)
